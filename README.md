@@ -1,5 +1,7 @@
 # NeetCode Solutions — @fengie
 
+> ⏱️ Last README update: `2026-10-05T22:11:00Z` _(auto-maintained)_
+
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-eskdyly4`
 
 ---
